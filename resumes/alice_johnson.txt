@@ -1,0 +1,37 @@
+Alice Johnson
+alice.johnson@email.com
++1-555-234-5678
+
+PROFESSIONAL SUMMARY
+Experienced Data Scientist with 4 years of experience in machine learning, data analysis, and Python development. Skilled in building predictive models and deploying end-to-end ML pipelines.
+
+TECHNICAL SKILLS
+- Programming Languages: Python, R, SQL
+- Machine Learning: Scikit-learn, TensorFlow, Deep Learning, NLP
+- Data Analysis: Pandas, NumPy, Matplotlib, Seaborn, Tableau
+- Databases: MySQL, PostgreSQL
+- Tools: Git, GitHub, Docker, Jupyter Notebook
+
+WORK EXPERIENCE
+Senior Data Scientist — TechCorp Solutions (2022 – Present)
+- Built machine learning models for customer churn prediction (92% accuracy).
+- Developed NLP pipelines for sentiment analysis on customer reviews.
+- Used Pandas and NumPy for large-scale data preprocessing.
+- Deployed models using Flask API.
+
+Data Analyst — DataWave Inc. (2020 – 2022)
+- Performed exploratory data analysis using Python and SQL.
+- Created interactive Tableau dashboards for business stakeholders.
+- Automated weekly reports using Python scripts.
+
+EDUCATION
+Bachelor of Science in Computer Science
+State University of Technology, 2019
+
+PROJECTS
+- Resume Classifier: Built an NLP-based resume screening tool using Scikit-learn and TF-IDF.
+- Sales Forecasting: Developed a time series model using Python and NumPy.
+- Customer Segmentation: Applied K-Means clustering using Scikit-learn.
+
+SOFT SKILLS
+Communication, Problem Solving, Teamwork, Leadership, Critical Thinking

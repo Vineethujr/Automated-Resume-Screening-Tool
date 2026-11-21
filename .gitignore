@@ -1,0 +1,99 @@
+# ============================================================
+#  .gitignore — Automated Resume Screening Tool
+# ============================================================
+
+# ---------------------------
+# Python cache & compiled files
+# ---------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.pyc
+
+# ---------------------------
+# Virtual environments
+# ---------------------------
+venv/
+.venv/
+env/
+.env/
+ENV/
+env.bak/
+venv.bak/
+
+# ---------------------------
+# Distribution / packaging
+# ---------------------------
+dist/
+build/
+*.egg-info/
+*.egg
+*.whl
+
+# ---------------------------
+# Testing & coverage
+# ---------------------------
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+
+# ---------------------------
+# IDE and editor files
+# ---------------------------
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.swo
+*~
+
+# ---------------------------
+# OS-generated files
+# ---------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------------------------
+# Sensitive / private data
+# Never commit real candidate personal information.
+# Sample resumes in resumes/ are explicitly allowed below.
+# ---------------------------
+*.docx
+*.doc
+
+# Allow the sample PDF resume (synthetic data only)
+!resumes/sample_candidate.pdf
+
+# Ignore all other PDFs
+*.pdf
+
+# ---------------------------
+# Generated outputs (do not commit raw exports)
+# ---------------------------
+outputs/*.csv
+outputs/*.xlsx
+outputs/*.json
+
+# ---------------------------
+# Temporary files
+# ---------------------------
+*.tmp
+*.bak
+*.orig
+
+# ---------------------------
+# Jupyter Notebooks checkpoints
+# ---------------------------
+.ipynb_checkpoints/
+
+# ---------------------------
+# Streamlit cache
+# ---------------------------
+.streamlit/

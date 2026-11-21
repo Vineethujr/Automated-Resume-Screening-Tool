@@ -1,0 +1,34 @@
+Bob Martinez
+bob.martinez@email.com
++1-555-876-4321
+
+PROFESSIONAL SUMMARY
+Junior Python Developer with 2 years of experience in web development and automation scripting. Passionate about software engineering and eager to grow in a data-driven role.
+
+TECHNICAL SKILLS
+- Programming Languages: Python, JavaScript, HTML, CSS
+- Web Frameworks: Flask, Django, Streamlit
+- Databases: MySQL, SQLite
+- Tools: Git, GitHub, VS Code
+
+WORK EXPERIENCE
+Junior Python Developer — WebStart Agency (2022 – Present)
+- Developed REST APIs using Flask for client web applications.
+- Automated data scraping workflows using Python and Regex.
+- Maintained SQL databases and wrote optimized queries.
+
+Intern — CodeBridge Solutions (2021 – 2022)
+- Assisted in developing Django-based web applications.
+- Performed basic data cleaning and transformation using Python.
+
+EDUCATION
+Bachelor of Technology in Information Technology
+National Institute of Technology, 2021
+
+PROJECTS
+- Task Manager App: Built a full-stack web app using Flask and SQLite.
+- Data Dashboard: Created a Streamlit dashboard for sales data visualisation.
+- Web Scraper: Developed a Python web scraper using Requests and BeautifulSoup.
+
+SOFT SKILLS
+Teamwork, Communication, Problem Solving, Adaptability

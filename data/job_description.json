@@ -1,0 +1,28 @@
+{
+  "job_title": "Data Scientist",
+  "company": "TechVision Analytics",
+  "location": "Remote",
+  "job_type": "Full-Time",
+  "job_description": "We are looking for a skilled Data Scientist to join our growing analytics team. The ideal candidate will have strong experience in Python programming, machine learning, and natural language processing. You will be responsible for building and deploying predictive models, performing exploratory data analysis, and communicating insights to stakeholders. Experience with data manipulation libraries such as Pandas and NumPy is essential. Familiarity with deep learning frameworks and cloud platforms is a plus. The candidate should be comfortable working with SQL databases and have experience creating data visualizations using tools such as Matplotlib, Seaborn, or Tableau. Strong communication and problem-solving skills are required.",
+  "required_skills": [
+    "Python",
+    "Machine Learning",
+    "Pandas",
+    "NumPy",
+    "Scikit-learn",
+    "SQL",
+    "NLP",
+    "Deep Learning",
+    "Communication",
+    "Problem Solving"
+  ],
+  "preferred_skills": [
+    "TensorFlow",
+    "Docker",
+    "AWS",
+    "Tableau",
+    "Git"
+  ],
+  "experience_required": "2+ years",
+  "education_required": "Bachelor's degree in Computer Science, Data Science or related field"
+}
