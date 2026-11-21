@@ -132,8 +132,7 @@ OUTPUT LAYER
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Automated-Resume-Screening-Tool.git
-cd Automated-Resume-Screening-Tool
+git clone git clone https://github.com/Vineethujr/Automated-Resume-Screening-Tool.git
 ```
 
 ### 2. Create a Virtual Environment
